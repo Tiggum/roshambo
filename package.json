@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "yargs": "^16.1.0"
+  },
+  "name": "roshambo",
+  "version": "1.0.0",
+  "main": "bin/roshambo.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiggum/roshambo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiggum/roshambo/issues"
+  },
+  "homepage": "https://github.com/Tiggum/roshambo#readme",
+  "description": "",
+  "bin": {
+    "roshambo": "./bin/roshambo.js"
   }
 }
